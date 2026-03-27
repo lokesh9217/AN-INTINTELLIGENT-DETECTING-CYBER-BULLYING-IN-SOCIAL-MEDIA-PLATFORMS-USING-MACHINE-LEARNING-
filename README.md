@@ -1,0 +1,2 @@
+# AN-INTINTELLIGENT-DETECTING-CYBER-BULLYING-IN-SOCIAL-MEDIA-PLATFORMS-USING-MACHINE-LEARNING-
+An intelligent system for detecting cyberbullying in social media platforms using Machine Learning and Natural Language Processing techniques. The project analyzes user-generated content to classify it as offensive or non-offensive, helping to promote a safer online environment through automated monitoring and admin control.
